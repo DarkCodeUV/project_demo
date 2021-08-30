@@ -2,13 +2,11 @@
 Author: DarkCodeUV
 Date: Ago 29, 2021
 */
+
 /*
-insert code here...
-*/
-/*
-code is ready !
+insert code sin here...
 */
 
 /*
-update color
+code is ready !
 */
